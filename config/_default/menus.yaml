@@ -11,3 +11,7 @@ leftnav:
   name: Related Resources
   url: /pages/related-resources
   weight: 30
+- identifier: external--1632447086-1686687615546
+  name: Google
+  pageRef: https://www.google.com
+  weight: 40
