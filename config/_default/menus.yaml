@@ -1,21 +1,25 @@
 leftnav:
+- identifier: 7d81baa6-870f-6d77-68ee-34a72b7f8625
+  name: Highlights of Calculus (5 videos)
+  pageRef: /video_galleries/highlights_of_calculus
+  weight: 10
 - identifier: 1ed01475-c0bc-d266-84e1-9218f297165d
   name: Derivatives (12 videos)
-  url: /video_galleries/derivatives
-  weight: 10
+  pageRef: /video_galleries/derivatives
+  weight: 20
 - identifier: 8c3145da-0d89-562f-ea2d-de22c1c95490
   name: Related Resources
-  url: /pages/related-resources
-  weight: 20
+  pageRef: /pages/related-resources
+  weight: 30
+- identifier: 37fc6a36-f691-f505-3e10-9249f701dde6
+  name: Internal Link
+  pageRef: /resources/big-picture-derivatives
+  weight: 40
 - identifier: external--1632447086-1686690790648
   name: Google
   url: https://www.google.com
-  weight: 30
-- identifier: 7d81baa6-870f-6d77-68ee-34a72b7f8625
-  name: Highlights of Calculus (5 videos)
-  url: /video_galleries/highlights_of_calculus
-  weight: 40
-- identifier: 37fc6a36-f691-f505-3e10-9249f701dde6
-  name: Internal Link
-  url: /resources/big-picture-derivatives
   weight: 50
+- identifier: 2548145d-00f0-fb97-9b65-bb6c08ceeb6a
+  name: Internal Link 2
+  pageRef: /resources/mitres18_05s10_big_picture_integrals
+  weight: 60
