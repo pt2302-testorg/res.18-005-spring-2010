@@ -15,3 +15,7 @@ leftnav:
   name: Highlights of Calculus (5 videos)
   url: /video_galleries/highlights_of_calculus
   weight: 40
+- identifier: 37fc6a36-f691-f505-3e10-9249f701dde6
+  name: Internal Link
+  url: /resources/big-picture-derivatives
+  weight: 50
