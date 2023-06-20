@@ -11,3 +11,11 @@ leftnav:
   name: Related Resources
   pageRef: /pages/related-resources
   weight: 30
+- identifier: 37fc6a36-f691-f505-3e10-9249f701dde6
+  name: Test Internal Link
+  pageRef: /resources/big-picture-derivatives
+  weight: 40
+- identifier: external--1632447086-1687266541471
+  name: Google
+  url: https://www.google.com
+  weight: 50
