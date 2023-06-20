@@ -12,14 +12,10 @@ leftnav:
   pageRef: /pages/related-resources
   weight: 30
 - identifier: 37fc6a36-f691-f505-3e10-9249f701dde6
-  name: Internal Link
+  name: Test Internal Link
   pageRef: /resources/big-picture-derivatives
   weight: 40
-- identifier: external--1632447086-1686690790648
+- identifier: external--1632447086-1687266541471
   name: Google
   url: https://www.google.com
   weight: 50
-- identifier: 2548145d-00f0-fb97-9b65-bb6c08ceeb6a
-  name: Internal Link 2
-  pageRef: /resources/mitres18_05s10_big_picture_integrals
-  weight: 60
